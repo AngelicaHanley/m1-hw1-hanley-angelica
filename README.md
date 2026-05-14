@@ -1,6 +1,6 @@
 # My First Coding Assignment
 
-![concert image](P9200040.JPG)
+![concert image](<P9200040 Large.jpeg>)
 
 ## About Me
 Hi! I'm Angelica Hanley and I have my B.S. in Computer Science from UF. I'm from South Florida and I love music, reading, tv shows, and concerts. A fun fact about me is that I have a twin sister.
